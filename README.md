@@ -1,2 +1,0 @@
-# MyJavascriptprojects
-Created with CodeSandbox
